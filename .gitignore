@@ -4,6 +4,9 @@
 # Backups
 *.zip
 
+#project backups
+rescue-backup
+
 # Temporary files
 *.000
 *.bak
